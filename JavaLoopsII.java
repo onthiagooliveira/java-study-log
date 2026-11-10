@@ -19,7 +19,7 @@
 
 import java.util.Scanner;
 
-public class javaLoopsII {
+public class JavaLoopsII {
     public static void main(String[] args) {
         // Cria um objeto 'Scanner' para ler a entrada padrão (teclado).
         Scanner in = new Scanner(System.in);
